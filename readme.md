@@ -5,4 +5,4 @@
 2) Manually unlink project in Gradle menu(Intellij Idea) 
 
 
-[image](mmproblem.jpeg)
+<img src="mmproblem.jpeg"/>
